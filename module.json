@@ -1,0 +1,13 @@
+{
+   "name": "JinkAniArtMod",
+   "title": "Jinker's Animated Art Pack",
+   "description": "<p>Collection of Animated Art for use with VTT's in the top-down/overhead perspective. All files are in transparent webm format. Files will be located in your <code>Data\modules\JinkAniArtMod\AnimatedArt</code> folder.</p><p>If you like my work consider becoming a Patron to ensure I keep creating content for Foundry. <a href='https://www.patreon.com/jinker' title='Jinker's Animated Art> Preview/Download <a href='http://www.jinker.org/patreon' title='Jinker's Animated Art>",
+   "author": "Jinker#8073",
+   "version": "0.1",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion": "0.6.0",
+   "url": "http://www.jinker.org/patreon",
+   "manifest": "http://www.jinker.org/patreon/FVTT/JAA/module.json",
+   "download": "http://www.jinker.org/patreon/FVTT/JAAMod.zip"
+}
+
