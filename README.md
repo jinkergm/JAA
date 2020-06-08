@@ -13,7 +13,7 @@ To install a module, follow these instructions:
 
 Use this manifest link in Foundry VTT.
 
-http://www.jinker.org/patreon/FVTT/JAA/module.json
+https://raw.githubusercontent.com/jinkergm/JAA/master/module.json
 
 OR
 
