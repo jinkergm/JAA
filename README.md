@@ -1,5 +1,5 @@
 # Jinker's Animated Art
-Collection of Animated Art for use with VTT's in the top-down/overhead perspective. All files are in transparent webm format. Files will be located in your "Data\modules\JinkAniArtMod\AnimatedArt" folder. If you like my work consider becoming a Patron to ensure I keep creating content for Foundry.
+Collection of Animated Art for use with VTT's in the top-down/overhead perspective. All files are in transparent webm format. Files will be located in your "Data\modules\jaamod\AnimatedArt" folder. If you like my work consider becoming a Patron to ensure I keep creating content for Foundry.
 
 https://www.patreon.com/jinker
 
