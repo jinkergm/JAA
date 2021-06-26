@@ -17,7 +17,7 @@ https://raw.githubusercontent.com/jinkergm/JAA/master/module.json
 
 OR
 
-Download the zip file (http://www.jinker.org/patreon/FVTT/JAAMod.zip)
+Download the zip file (http://jinker.org/patreon/FVTT/JAAMod.zip)
 Extract the included folder to public/modules in your Foundry Virtual Tabletop installation folder.
 Restart Foundry Virtual Tabletop.
 
