@@ -19,7 +19,7 @@ export const Effects = {
                 "end": 0
             },
             "ease": "InSine",
-            "preset": false,
+            "preset": true,
             "author": "Jinker"
         }]
     }
