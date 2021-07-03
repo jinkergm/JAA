@@ -27,7 +27,7 @@ export const Effects = {
             
     {
         "label": "60 Second Timer",
-        "file": "images/Animated/Misc/60secondCountdown.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/60secondCountdown.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -49,7 +49,7 @@ export const Effects = {
     },
     {
         "label": "Bard Song",
-        "file": "images/Animated/Misc/bardSongColor.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/bardSongColor.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -71,7 +71,7 @@ export const Effects = {
     },
     {
         "label": "Bat swarm",
-        "file": "images/Animated/Misc/batSwarm.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/batSwarm.webm",
         "scale": {
             "x": 3,
             "y": 3
@@ -93,7 +93,7 @@ export const Effects = {
     },
     {
         "label": "Blast 1",
-        "file": "images/Animated/Misc/blast1.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/blast1.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -115,7 +115,7 @@ export const Effects = {
     },
     {
         "label": "Boom 4",
-        "file": "images/Animated/Misc/boom4.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/boom4.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -137,7 +137,7 @@ export const Effects = {
     },
     {
         "label": "Boom 7",
-        "file": "images/Animated/Misc/boom7.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/boom7.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -159,7 +159,7 @@ export const Effects = {
     },
     {
         "label": "Boom 8",
-        "file": "images/Animated/Misc/boom8.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/boom8.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -181,7 +181,7 @@ export const Effects = {
     },
     {
         "label": "Boom5",
-        "file": "images/Animated/Misc/boom5.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/boom5.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -203,7 +203,7 @@ export const Effects = {
     },
     {
         "label": "Boom6",
-        "file": "images/Animated/Misc/boom6.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/boom6.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -225,7 +225,7 @@ export const Effects = {
     },
     {
         "label": "Dust Devil",
-        "file": "images/Animated/Misc/dustDevil.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/dustDevil.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -247,7 +247,7 @@ export const Effects = {
     },
     {
         "label": "Dust Poof",
-        "file": "images/Animated/Misc/dustPoof.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/dustPoof.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -269,7 +269,7 @@ export const Effects = {
     },
     {
         "label": "Eyes Red",
-        "file": "images/Animated/Misc/eyesBlinkRed.mov.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/eyesBlinkRed.mov.webm",
         "scale": {
             "x": 0.1,
             "y": 0.1
@@ -291,7 +291,7 @@ export const Effects = {
     },
     {
         "label": "Fire Portal",
-        "file": "images/Animated/Fire/hellPortalFire.webm",
+        "file": "modules/jaamod/AnimatedArt/Fire/hellPortalFire.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -313,7 +313,7 @@ export const Effects = {
     },
     {
         "label": "Fireworks",
-        "file": "images/Animated/Misc/fireworks2.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/fireworks2.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -340,7 +340,7 @@ export const Effects = {
     },
     {
         "label": "Glow 1",
-        "file": "images/Animated/Misc/glowSprite1.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/glowSprite1.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -362,7 +362,7 @@ export const Effects = {
     },
     {
         "label": "Glow 2",
-        "file": "images/Animated/Misc/glowSprite2.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/glowSprite2.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -384,7 +384,7 @@ export const Effects = {
     },
     {
         "label": "Glow 3",
-        "file": "images/Animated/Misc/glowSprite3.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/glowSprite3.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -406,7 +406,7 @@ export const Effects = {
     },
     {
         "label": "Glow 4",
-        "file": "images/Animated/Misc/glowSprite4.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/glowSprite4.webm",
         "scale": {
             "x": 1,
             "y": 1
@@ -428,7 +428,7 @@ export const Effects = {
     },
     {
         "label": "Gold Piece",
-        "file": "images/Animated/Misc/goldCoin.webm",
+        "file": "modules/jaamod/AnimatedArt/Misc/goldCoin.webm",
         "scale": {
             "x": 0.3,
             "y": 0.3
