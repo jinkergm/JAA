@@ -43,8 +43,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+         "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -65,8 +65,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+       "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -87,8 +87,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -109,8 +109,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -131,8 +131,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -153,8 +153,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -175,8 +175,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+       "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -197,8 +197,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+       "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -219,8 +219,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -241,8 +241,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -263,8 +263,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -285,8 +285,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -307,8 +307,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -329,8 +329,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "InOutSine",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom",
         "position": {
             "x": 1146.1403564099987,
@@ -356,8 +356,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+       "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -378,8 +378,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -400,8 +400,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+       "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -422,8 +422,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -444,8 +444,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -466,8 +466,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "InOutCirc",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom",
         "position": {
             "x": 1282.3355544629474,
@@ -493,8 +493,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -515,8 +515,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     },
     {
@@ -537,8 +537,8 @@ export const Effects = {
             "end": 0
         },
         "ease": "Linear",
-        "preset": false,
-        "author": "",
+        "preset": true,
+         "author": "Jinker",
         "folder": "Custom"
     }
 
