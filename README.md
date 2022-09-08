@@ -3,7 +3,7 @@ Collection of Animated Art for use with VTT's in the top-down/overhead perspecti
 
 https://www.patreon.com/jinker
 
-Preview/Download http://www.jinker.org/patreon
+Limited Preview/Download http://www.jinker.org/patreon
 
 
 Requires FVTT version 0.5.0 or higher
