@@ -9,7 +9,7 @@
          "discord": "Jinker#8073"
       }
    ],
-   "version": "0.8",
+   "version": "0.91",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion": "10",
    "compatibility": {"minimum":9,"verified":10},
