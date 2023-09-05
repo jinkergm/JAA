@@ -18,6 +18,9 @@ https://raw.githubusercontent.com/jinkergm/JAA/master/module.json
 OR
 
 Download the zip file (https://github.com/jinkergm/JAA/archive/refs/heads/master.zip)
+OR
+Download Alternate: https://jinker.org/adnd/Foundry/modules/jaamod.zip
+
 Extract the included folder to data/modules in your Foundry Virtual Tabletop installation folder.
 Restart Foundry Virtual Tabletop.
 
