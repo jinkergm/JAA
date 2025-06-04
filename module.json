@@ -9,10 +9,10 @@
          "discord": "Jinker#8073"
       }
    ],
-   "version": "0.91",
+   "version": "0.93",
    "minimumCoreVersion": "0.7.0",
-   "compatibleCoreVersion": "10",
-   "compatibility": {"minimum":9,"verified":10},
+   "compatibleCoreVersion": "13",
+   "compatibility": {"minimum":9,"verified":13},
    "esmodules": [
        "./scripts/loadEffects.js"
    ],
