@@ -4,7 +4,9 @@ import { SequencerData } from "./sequencerData.js";
 Hooks.once("init", function () {
   // Adding specials
   if (!CONFIG.fxmaster) CONFIG.fxmaster = {};
-   mergeObject(CONFIG.fxmaster, {specials: Effects});
+  foundry.utils.mergeObject(CONFIG.fxmaster, {specials: Effects});
+  //Old line 
+  //mergeObject(CONFIG.fxmaster, {specials: Effects});
 });
 
 Hooks.on("sequencerReady", () => {
