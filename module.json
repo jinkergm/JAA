@@ -16,8 +16,9 @@
    "esmodules": [
        "./scripts/loadEffects.js"
    ],
-   "url": "http://www.jinker.org/patreon",
+   "url": "https://github.com/jinkergm/JAA",
    "manifest": "https://raw.githubusercontent.com/jinkergm/JAA/master/module.json",
    "download": "https://github.com/jinkergm/JAA/archive/master.zip"
 }
+
 
