@@ -11,8 +11,8 @@
    ],
    "version": "0.93",
    "minimumCoreVersion": "0.7.0",
-   "compatibleCoreVersion": "13",
-   "compatibility": {"minimum":9,"verified":13},
+   "compatibleCoreVersion": "14",
+   "compatibility": {"minimum":9,"verified":14},
    "esmodules": [
        "./scripts/loadEffects.js"
    ],
@@ -20,5 +20,6 @@
    "manifest": "https://raw.githubusercontent.com/jinkergm/JAA/master/module.json",
    "download": "https://github.com/jinkergm/JAA/archive/master.zip"
 }
+
 
 
