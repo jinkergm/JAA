@@ -9,7 +9,7 @@
          "discord": "Jinker#8073"
       }
    ],
-   "version": "0.93",
+   "version": "0.94",
    "minimumCoreVersion": "0.7.0",
    "compatibleCoreVersion": "14",
    "compatibility": {"minimum":9,"verified":14},
@@ -20,6 +20,7 @@
    "manifest": "https://raw.githubusercontent.com/jinkergm/JAA/master/module.json",
    "download": "https://github.com/jinkergm/JAA/archive/master.zip"
 }
+
 
 
 
